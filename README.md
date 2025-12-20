@@ -15,8 +15,8 @@
 ✤Understanding system design & scalable backend concepts<br>
 ✤Improving DSA and algorithmic thinking<br>
 🌱**I’m currently learning**<br>
-✤Advanced Java (JDBC, Servlets, JSP, Spring & Spring Boot)
-✤<br>Server-Side Scripting - PHP<br>
+✤Advanced Java (JDBC, Servlets, JSP, Spring & Spring Boot)<br>
+✤Server-Side Scripting - PHP<br>
 ✤Design and Analysis of Algorithms (DP, Greedy, Backtracking)<br>
 ✤Basics of Cloud, GenAI & Model Deployment<br>
 💬**Ask me about**<br>
@@ -24,7 +24,7 @@
 ✤Hackathons, project building, and learning paths<br>
 ✤Getting started with Android & backend development<br>
 ⚡**Fun fact**<br>
-I’m not chasing “expert” titles — I focus on learning by building and improving consistently 🚀
+✤I’m not chasing “expert” titles — I focus on learning by building and improving consistently 🚀
 
 
 ## 🌐Socials:
