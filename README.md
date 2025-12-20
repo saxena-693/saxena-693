@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/dev-banner.png" alt="Profile Banner" />
+  <img src="./dev-banner.png" alt="Profile Banner" />
 </p>
 
 # 💫About Me:
