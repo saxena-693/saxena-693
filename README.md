@@ -3,7 +3,28 @@
 </p>
 
 # 💫About Me:
-🔭I’m currently working on<br>Building projects in Python, Java, and Kotlin to strengthen fundamentals<br>Improving problem-solving & DSA (C++)<br>Exploring backend development and API integration<br>👯I’m looking to collaborate on<br>Beginner to intermediate level projects in Python, Java, or Android<br>Learning-focused projects where growth > perfection<br>🤝I’m looking for help with<br>Writing cleaner and more structured code<br>Understanding system design & scalable backend concepts<br>Improving DSA and algorithmic thinking<br>🌱I’m currently learning<br>Advanced Java (JDBC, Servlets, JSP, Spring & Spring Boot)<br>Server-Side Scripting - PHP<br>Design and Analysis of Algorithms (DP, Greedy, Backtracking)<br>Basics of Cloud, GenAI & Model Deployment<br>💬Ask me about<br>Python development & internships<br>Hackathons, project building, and learning paths<br>Getting started with Android & backend development<br>⚡Fun fact<br>I’m not chasing “expert” titles — I focus on learning by building and improving consistently 🚀
+🔭**I’m currently working on**<br>
+✤Building projects in Python, Java, and Kotlin to strengthen fundamentals<br>
+✤Improving problem-solving & DSA (C++)<br>
+✤Exploring backend development and API integration<br>
+👯**I’m looking to collaborate on**<br>
+✤Beginner to intermediate level projects in Python, Java, or Android<br>
+✤Learning-focused projects where growth > perfection<br>
+🤝**I’m looking for help with**<br>
+✤Writing cleaner and more structured code<br>
+✤Understanding system design & scalable backend concepts<br>
+✤Improving DSA and algorithmic thinking<br>
+🌱**I’m currently learning**<br>
+✤Advanced Java (JDBC, Servlets, JSP, Spring & Spring Boot)
+✤<br>Server-Side Scripting - PHP<br>
+✤Design and Analysis of Algorithms (DP, Greedy, Backtracking)<br>
+✤Basics of Cloud, GenAI & Model Deployment<br>
+💬**Ask me about**<br>
+✤Python development & internships<br>
+✤Hackathons, project building, and learning paths<br>
+✤Getting started with Android & backend development<br>
+⚡**Fun fact**<br>
+I’m not chasing “expert” titles — I focus on learning by building and improving consistently 🚀
 
 
 ## 🌐Socials:
