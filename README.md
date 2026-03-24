@@ -36,7 +36,7 @@
 
 # 📊GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=saxena-693&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=saxena-693&theme=dark&hide_border=false)<br/>
+![](https://streak-stats.demolab.com?user=saxena-693&theme=dark&hide_border=false&ring=ffffff&fire=ffffff&currStreakLabel=ffffff)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saxena-693&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
