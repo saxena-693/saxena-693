@@ -2,30 +2,41 @@
   <img src="./dev-banner.png" alt="Profile Banner" />
 </p>
 
-# 💫About Me:
-🔭**I’m currently working on**<br>
-✤Building projects in Python, Java, and Kotlin to strengthen fundamentals<br>
-✤Improving problem-solving & DSA (C++)<br>
-✤Exploring backend development and API integration<br>
-👯**I’m looking to collaborate on**<br>
-✤Beginner to intermediate level projects in Python, Java, or Android<br>
-✤Learning-focused projects where growth > perfection<br>
-🤝**I’m looking for help with**<br>
-✤Writing cleaner and more structured code<br>
-✤Understanding system design & scalable backend concepts<br>
-✤Improving DSA and algorithmic thinking<br>
-🌱**I’m currently learning**<br>
-✤Advanced Java (JDBC, Servlets, JSP, Spring & Spring Boot)<br>
-✤Server-Side Scripting - PHP<br>
-✤Design and Analysis of Algorithms (DP, Greedy, Backtracking)<br>
-✤Basics of Cloud, GenAI & Model Deployment<br>
-💬**Ask me about**<br>
-✤Python development & internships<br>
-✤Hackathons, project building, and learning paths<br>
-✤Getting started with Android & backend development<br>
-⚡**Fun fact**<br>
-✤I’m not chasing “expert” titles — I focus on learning by building and improving consistently 🚀
+<h1 align="center">Hi there, I'm Nandini Saxena✨</h1>
 
+<p align="center">
+  <b>Full Stack Developer · Android Developer · AI/ML Explorer</b><br>
+  <i>Smart apps. Secure systems. Meaningful experiences.</i>
+</p>
+
+<p align="center">
+  <a href="https://nandinisaxena.netlify.app"><img src="https://img.shields.io/badge/Portfolio-nandinisaxena.netlify.app-pink?style=flat-square&logo=netlify" /></a>
+  <a href="https://linkedin.com/in/nandini-saxena-codes"><img src="https://img.shields.io/badge/LinkedIn-nandini--saxena--codes-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="https://github.com/saxena-693"><img src="https://img.shields.io/badge/GitHub-saxena--693-black?style=flat-square&logo=github" /></a>
+  <a href="mailto:nandinisaxena693@gmail.com"><img src="https://img.shields.io/badge/Email-nandinisaxena693%40gmail.com-red?style=flat-square&logo=gmail" /></a>
+</p>
+
+---
+
+## 🪴About Me
+
+- 🎓B.Tech CSE student at **Amity University, Gwalior** (SGPA: 9.07)
+- 🌱Currently learning **Advanced Java (Spring Boot, Servlets, JSP)**, DSA (DP, Greedy, Backtracking), and basics of **Cloud & GenAI**
+- 🤝Looking to collaborate on **beginner-to-intermediate projects** in Python, Java, or Android
+- 💡Ask me about **Python development, Android apps, hackathons, and getting started with backend development**
+- ✨Fun fact: I'm not chasing "expert" titles — I focus on learning by building and improving consistently
+
+---
+
+## 🎯My Focus Areas
+- 🌐Full Stack Web Development
+- 🤖AI / ML & LLM Integration
+- 📊Data Analytics & Visualization
+- 📱Android Development (Kotlin)
+- 🔐Cryptography & Secure Systems
+- 🧩DSA & Problem Solving
+
+---
 
 ## 🌐Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nandini-saxena-codes) 
