@@ -85,4 +85,8 @@
 
 ---
 
+<p align="center">
+  <i>"Build. Break. Learn. Repeat."</i>
+</p>
+
 
