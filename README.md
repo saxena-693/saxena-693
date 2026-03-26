@@ -28,7 +28,8 @@
 
 ---
 
-## 🎯My Focus Areas
+## 🎯What I'm Into
+
 - 🌐Full Stack Web Development
 - 🤖AI / ML & LLM Integration
 - 📊Data Analytics & Visualization
